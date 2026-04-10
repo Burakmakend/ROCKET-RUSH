@@ -25,3 +25,7 @@ Varlık Yönetimi: Blender kullanılarak düşük poligonlu (low-poly) ve perfor
 Canlı Ürün Deneyimi: Google Play Console süreçleri, uygulama içi testler ve sürüm yönetimi başarıyla tamamlanarak ürün canlıya alındı.
 
 Bu oyun OTTOVATE ekibi olarak Burak Özdemir, Muhammet Efe Özdemir ve Melih Ödev tarafından yapılmıştır.
+
+
+https://github.com/user-attachments/assets/1d3bf997-082b-4899-9ee5-996f76285ef7
+
